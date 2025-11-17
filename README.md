@@ -1,35 +1,72 @@
 <h2 align="center">Hi, I'm Soniya 👋</h2>
 
 <p align="center">
-Data Analyst | SQL • Python • Power BI • Excel  
+Aspiring Product Analyst | SQL • Product Metrics • User Behavior Analytics  
 <br>
-Turning raw data into meaningful insights 📊✨
+Obsessed with understanding users and building meaningful product experiences 🚀
 </p>
 
 ---
 
 ### 🔥 About Me
-- 👩🏻‍💻 Data Analytics Enthusiast  
-- 📈 Love finding patterns that improve decisions  
-- 🎯 Building analytics projects & dashboards  
+- 👩🏻‍💻 Transitioning into Product Analytics  
+- 📊 Strong in SQL, problem-solving & data storytelling  
+- 🎯 Passion: understanding user journeys, drop-offs & conversions  
+- 🌱 Learning A/B testing, funnel analysis & product thinking  
+- 🧠 Believe in simple solutions that improve user experience  
 
 ---
 
-### 📊 Tools & Technologies
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Matplotlib  
-**Visualization:** Power BI, Tableau  
-**Database:** MySQL, PostgreSQL  
-**Other:** Excel, Git, GitHub  
+### 📌 What I Do as a Product Analyst
+- Analyze **user behavior** across platforms  
+- Deep dive into **conversion funnels**  
+- Study **feature performance**, retention & churn  
+- Work on **hypotheses, experiments & A/B tests**  
+- Build insights that help PMs take decisions  
 
 ---
 
-### 🚀 My Projects
+### 🛠️ Tools & Skills
+**Languages & Querying:**  
+- SQL  
+- Python (basic analytics)
+
+**Product Analytics:**  
+- Funnel Analysis  
+- Cohort Analysis  
+- Retention Metrics  
+- Conversion Optimization  
+- A/B Testing
+
+**Tools:**  
+- Mixpanel  
+- Amplitude  
+- Google Analytics (GA4)  
+- Excel / Google Sheets  
+- Power BI  
+
+**Concepts:**  
+- Product Metrics (DAU, MAU, Activation, Churn)  
+- User Segmentation  
+- Experimentation  
+
+---
+
+### 🚀 My Projects (Product-focused)
 | Project | Description |
 |--------|-------------|
-| **E-Commerce Sales Analysis** | Sales analytics dashboard using Python & Power BI |
-| **Customer Segmentation** | RFM analysis + clustering |
-| **Retail Insights Dashboard** | End-to-end analytics solution |
+| **User Funnel Analysis – E-commerce App** | Identified drop-offs using SQL & funnel metrics |
+| **Conversion Optimization Case Study** | Improved checkout conversion through A/B test insights |
+| **Cohort Retention Dashboard** | Built retention visualization for weekly cohorts |
+| **Feature Performance Analysis** | Evaluated new feature impact using Mixpanel-like metrics |
+
+---
+
+### 🌱 Currently Learning  
+- Advanced A/B Testing  
+- Product requirement thinking  
+- Metrics dashboards  
+- User segmentation using SQL  
 
 ---
 
